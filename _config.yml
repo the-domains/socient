@@ -1,0 +1,14 @@
+layout_spectrum: 0.2297872
+typography_spectrum: 0.7829787
+color:
+  saturation: 0.806383
+  lightness: 0.193617
+  brandStrength: 0.493617
+  rhythmicContrast: 0.5148936
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: SOCIENT

@@ -1,14 +1,26 @@
-layout_spectrum: 0.2297872
-typography_spectrum: 0.7829787
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.806383
+  brandStrength: 1
   lightness: 0.193617
-  brandStrength: 0.493617
-  rhythmicContrast: 0.5148936
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#1E1E1E'
+    - '#545454'
+    - '#FF2501'
+    - '#F9F9F9'
+    - '#8F8F8F'
+  rhythmicContrast: 0.5148936
+typography_spectrum: 0.7829787
+layout_spectrum: 0.2297872
 name: SOCIENT
